@@ -3,3 +3,4 @@ logs/
 *.jar
 pom.xml
 .lein-deps-sum
+tags
