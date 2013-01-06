@@ -4,3 +4,4 @@ logs/
 pom.xml
 .lein-deps-sum
 tags
+target/
